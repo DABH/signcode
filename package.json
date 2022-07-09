@@ -1,8 +1,8 @@
 {
-  "name": "signcode",
-  "version": "1.0.0",
+  "name": "@DABH/signcode",
+  "version": "1.0.1",
   "description": "Sign Windows executables from a Mac",
-  "repository": "https://github.com/kevinsawicki/signcode",
+  "repository": "https://github.com/DABH/signcode",
   "main": "index.js",
   "scripts": {
     "test": "mocha && standard"
