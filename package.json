@@ -1,5 +1,5 @@
 {
-  "name": "@DABH/signcode",
+  "name": "@dabh/signcode",
   "version": "1.0.1",
   "description": "Sign Windows executables from a Mac",
   "repository": "https://github.com/DABH/signcode",
